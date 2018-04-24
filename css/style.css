@@ -1,0 +1,65 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background-color: #dca84a;
+}
+
+#button-align {     
+    text-align:center;
+    align-content: center;   
+    background: rgba(204, 204, 204, 0);
+}
+
+.center-buttons {
+ align-content: center;   
+}
+
+body {
+   background-image: url("../images/bkg.jpg");
+}
+
+#back1 {
+    background-color: royalblue;
+}
+
+#back2 {
+    background-color: salmon;
+}
+
+#button-1 {
+    background-image: url("../images/crystal1.png");
+    background-repeat: no-repeat;    
+}
+
+#button-2 {
+    background-image: url("../images/purple.png");
+    background-repeat: no-repeat;
+    
+}
+
+#button-3 {
+    background-image: url("../images/rainbow.png");
+    background-repeat: no-repeat;
+    
+}
+
+#button-4 {
+    background-image: url("../images/emerald.png");
+    background-repeat: no-repeat;
+}
+
+#bottom {
+    background-color: teal;
+}
+
+span {
+    font-weight: bolder;
+    font-size: 1.7em;
+}
+
+.resize {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    background-position: center;
+    background-size: contain;
+}
